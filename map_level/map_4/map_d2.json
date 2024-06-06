@@ -380,7 +380,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":64,
          "id":17,
-         "name":"entryTolevel",
+         "name":"exitTolevel",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
