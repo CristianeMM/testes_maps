@@ -1,0 +1,195 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_3/map2.json": {
+            "scale": 0.1462109375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3836.922254875768,
+                "y": 3194.0154955917715
+            }
+        },
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_3/map2.json#grass": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_3/map2.json#water": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_4/map.json": {
+            "scale": 0.58484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 801.923590702645,
+                "y": 801.923590702645
+            }
+        },
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_4/map.json#fundogal": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_4/map.json#grass": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_4/map.json#water": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json": {
+            "scale": 0.5,
+            "selectedLayer": 22,
+            "viewCenter": {
+                "x": 1838,
+                "y": -202
+            }
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#01 - RPG snow tileset (full) v1.2": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#Elf_01_idle (32x48)": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#Elf_02_idle (32x48)": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#Rudolph_01_idle (32x32)": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#Rudolph_01_idle (64x64)": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#Santa_01_walk (64x64)": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#Special_Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#TX Props": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#comeco": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#elf-1-face": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#elf-2-left": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#gnome-1-face": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#gnome-1-left": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#gnome-2-right": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#tileset": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json#tileset6_export": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/map_sequencia/map_sequencia/map.json": {
+            "expandedGroupLayers": [
+                9,
+                7,
+                15,
+                2
+            ],
+            "scale": 5.5,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 898.7272727272727,
+                "y": 261.6363636363636
+            }
+        },
+        "/Users/giandalpont/Downloads/map_sequencia/map_sequencia/map.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/map_sequencia/map_sequencia/map.json#grass": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/map_sequencia/map_sequencia/map.json#map_fundo": {
+            "scaleInDock": 1
+        },
+        "/Users/giandalpont/Downloads/map_sequencia/map_sequencia/map.json#water": {
+            "scaleInDock": 1
+        },
+        "map.tmj": {
+            "expandedGroupLayers": [
+                5
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 711,
+                "y": 1889.5
+            }
+        },
+        "map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.tmj#map_fundo": {
+            "scaleInDock": 1
+        },
+        "map2.tmj": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 801,
+                "y": 1428
+            }
+        },
+        "map2.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map2.tmj#map_fundo2": {
+            "scaleInDock": 1
+        },
+        "map3.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 974.6666666666665,
+                "y": 1296
+            }
+        },
+        "map3.tmj#mapfinal": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_6",
+    "last.imagePath": "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_6",
+    "map.height": 64,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.width": 48,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "/Users/giandalpont/Downloads/aula6-fase1/fase/map.json",
+        "/Users/giandalpont/Downloads/map_sequencia/map_sequencia/map.json",
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_3/map2.json",
+        "/Users/giandalpont/Desktop/projetos/eduProjeto/game/public/game/map_4/map.json"
+    ],
+    "tileset.embedInMap": true
+}
