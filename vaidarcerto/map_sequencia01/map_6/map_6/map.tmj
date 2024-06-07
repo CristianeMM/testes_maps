@@ -877,7 +877,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map2.tmj"
+                 "value":"map2.tmj#entryToMap6"
                 }],
          "type":"tilelayer",
          "visible":true,
