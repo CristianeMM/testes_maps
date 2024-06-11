@@ -713,7 +713,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map2.json"
+                 "value":"map2.json#entryTo2"
                 }],
          "type":"tilelayer",
          "visible":true,
