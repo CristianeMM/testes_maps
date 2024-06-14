@@ -33,7 +33,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryToMap1"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

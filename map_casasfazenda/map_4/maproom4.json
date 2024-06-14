@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryToMap4"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
