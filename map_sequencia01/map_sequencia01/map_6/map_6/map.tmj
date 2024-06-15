@@ -651,7 +651,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map5.tmj#entryToMap"
+                 "value":"map5.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -807,7 +807,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map4.tmj#entryToMap"
+                 "value":"map4.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
