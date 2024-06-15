@@ -1289,7 +1289,7 @@
                  "id":2,
                  "properties":[
                         {
-                         "name":"colider",
+                         "name":"collider",
                          "type":"bool",
                          "value":true
                         }]
