@@ -807,7 +807,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map4.tmj"
+                 "value":"map4.tmj#entryToMap"
                 }],
          "type":"tilelayer",
          "visible":true,
