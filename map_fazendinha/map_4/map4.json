@@ -113,7 +113,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryToMapA"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
